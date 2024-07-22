@@ -36,7 +36,7 @@
     <img align="center" src="gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://samarjit.vercel.app" target="_blank">
+   <a href="https://uditnarayan122.github.io/portfolio/" target="_blank">
     <img align="center" src="web.png" alt="website" height="45" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
