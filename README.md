@@ -1,7 +1,7 @@
 <h1 align="center">Udit Narayan Giri</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
- <img alt="Coding" width="300" height="auto" src="coding.gif"/>
+ <img alt="Coding" width="300" height="auto" src="programming.gif"/>
 </p>
 <h3 align="center">My interests</h3>
 <p align="center">
