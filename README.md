@@ -10,19 +10,19 @@
 <p align="center">Currently learning - Cyber Security in AI</p>
 </p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uditnarayan122&theme=darkhub&title=-Issues,-Reviews&row=2&column=3">
+  <img src="https://github-profile-trophy.vercel.app/?username=uditnarayan122&no-bg=true&no-frame=true&title=-Issues,-Reviews&row=2&column=3">
 </div>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditnarayan122&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditnarayan122&no-bg=true&hide_border=true&layout=compact&theme=transparent"/></p>
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uditnarayan122&hide_border=false&theme=neon" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uditnarayan122&hide_border=true&theme=transparent" /> 
 </p>  
 <div align="center">
 <a href="https://github.com/uditnarayan122">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditnarayan122&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditnarayan122&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditnarayan122&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uditnarayan122&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditnarayan122&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditnarayan122&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditnarayan122&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditnarayan122&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uditnarayan122&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditnarayan122&theme=transparent" height="180em" />
 </div>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
