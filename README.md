@@ -5,10 +5,11 @@
 </p>
 <h3 align="center">My interests</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial Intelligence;Machine Learning;Web Development;Cyber Security;Big Data&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=cyan" alt="Interests">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Data+Science" alt="Typing SVG" />
+</p>
 <p align="center">Currently working on - Private Projects</p>
 <p align="center">Currently learning - Cyber Security in AI</p>
-</p>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=uditnarayan122&no-bg=true&no-frame=true&title=-Issues,-Reviews&row=2&column=3">
 </div>
