@@ -15,7 +15,7 @@
 <p align="center">Currently learning - Cyber Security in AI</p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uditnarayan122&no-bg=true&no-frame=true&title=-Issues,-Reviews&row=2&column=3">
+  <img src="https://github-profile-trophy.vercel.app/?username=uditnarayan122&no-bg=true&no-frame=true&row=2&column=3">
 </div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditnarayan122&no-bg=true&hide_border=true&layout=compact&theme=transparent"/></p>
 <p align="center">
