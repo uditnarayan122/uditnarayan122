@@ -1,8 +1,8 @@
-<h1 align="center">Udit Narayan Giri</h1>
-<h3 align="center">Software Engineer</h3>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+<h1 align="center">Udit Narayan Giri</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
  <img alt="Coding" width="300" height="auto" src="programming.gif"/>
@@ -21,6 +21,9 @@
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uditnarayan122&hide_border=true&theme=transparent" /> 
 </p>  
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <div align="center">
 <a href="https://github.com/uditnarayan122">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditnarayan122&theme=transparent" height="180em" />
@@ -48,4 +51,7 @@
   <a href="https://linkedin.com/in/udit-narayan-giri/" target="_blank">
     <img align="center" src="linkedin.png" alt="linkedin" height="45" width="45" />
   </a>
+</p>
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
