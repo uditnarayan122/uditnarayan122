@@ -1,8 +1,8 @@
+<h1 align="center">Udit Narayan Giri</h1>
+<h3 align="center">Software Engineer</h3>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-<h1 align="center">Udit Narayan Giri</h1>
-<h3 align="center">Software Engineer</h3>
 
 <p align="center">
  <img alt="Coding" width="300" height="auto" src="programming.gif"/>
