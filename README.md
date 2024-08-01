@@ -55,3 +55,4 @@
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0000FF&style=flat&logo" alt="Go to Top" /></a></p>
