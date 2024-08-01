@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="header.png" /> 
+</p>
 <h1 align="center">Udit Narayan Giri</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="left">
