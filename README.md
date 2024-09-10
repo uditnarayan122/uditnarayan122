@@ -6,7 +6,19 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 <h3 align="center">Software Engineer</h3>
+<p align="center">
+ <img alt="Coding" width="300" height="auto" src="programming.gif"/>
+</p>
+<h3 align="center">My interests</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Data+Science" alt="Typing SVG" />
+</p>
+<p align="center">Currently working on - Private Projects</p>
+<p align="center">Currently learning - Cyber Security in AI</p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uditnarayan122&no-bg=true&no-frame=true&row=2&column=3">
+</div>
 # 💫 About Me:
 🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -32,19 +44,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
- <img alt="Coding" width="300" height="auto" src="programming.gif"/>
-</p>
-<h3 align="center">My interests</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Data+Science" alt="Typing SVG" />
-</p>
-<p align="center">Currently working on - Private Projects</p>
-<p align="center">Currently learning - Cyber Security in AI</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uditnarayan122&no-bg=true&no-frame=true&row=2&column=3">
-</div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditnarayan122&no-bg=true&hide_border=true&layout=compact&theme=transparent"/></p>
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uditnarayan122&hide_border=true&theme=transparent" /> 
