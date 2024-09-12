@@ -20,7 +20,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=uditnarayan122&no-bg=true&no-frame=true&row=2&column=3">
 </div>
 # 💫 About Me:
-🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate on Web Devlopment Project<br>🤝 I’m looking for help with Web Devlopment<br>🌱 I’m currently learning Web Devlopment<br>💬 Ask me about Project or Work<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
